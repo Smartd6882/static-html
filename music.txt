@@ -1,0 +1,22 @@
+<<!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <title>music</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <h2>classic</h2>
+        <audio><controls>
+        <source src="music folder/sadness-in-roads-to-nowhere-23407.mp3">
+      </audio>
+        <h2>wedding songs</h2>
+        <audio controls>
+        <source src="music folder/wedding-moment-main-9623.mp3">
+      </audio>
+    </body>
+
+    </html>
